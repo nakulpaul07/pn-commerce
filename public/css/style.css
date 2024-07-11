@@ -1,0 +1,65 @@
+.a{
+    color: blueviolet;
+}
+.nav-Link{
+    text-decoration: none;
+    margin-right: 1cm;
+    font-size: large;
+    line-height: normal;
+    align-items: baseline;
+    margin-top: 3px;
+    
+}
+.b{
+    color: black !important ;
+}
+.b :hover{
+    color: #FFD333 !important ;
+}
+.dropdown-toggle{
+    color: yellow;
+}
+.carousel{
+    height: 11cm;
+}
+.offer{
+    margin-top: 1.97cm;
+}
+.Quality{
+    font-size: 0.8cm;
+    font-weight: 500;
+    color: black;
+}
+.Categories{
+    height: 3cm;
+    border: 1px solid white;
+}
+.cardcart{
+    position: relative;
+    margin-left: 3cm;
+    top: 0.8cm;
+    line-height: 25px;
+    font-weight: 600;
+}
+.Product{
+    margin-left: 4px;
+ font-weight: 300;
+}
+.cat{
+    width: 100px;
+     height: 100px;
+     position: relative;
+     top: -1.65cm;
+}
+.fa-star{
+    color: orange;
+}
+.sspan{
+    color: black !important ;
+     word-spacing: 5px;
+      letter-spacing: 2px;
+       font-weight: 400;
+        font-family: 'Times New Roman', Times, serif;
+
+}
+
